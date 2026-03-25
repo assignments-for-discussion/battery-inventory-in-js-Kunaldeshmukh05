@@ -4,7 +4,7 @@
   "description": "Let's say we have a bunch of batteries.  As batteries get used, they get charged and re-charged. In other words, they undergo charging-cycles. After many charge-cycles, batteries lose their capacity to store charge.",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node main.js"
   },
   "repository": {
     "type": "git",
